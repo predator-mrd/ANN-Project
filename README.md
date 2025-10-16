@@ -1,2 +1,1 @@
-# careers-website
-A careeers website
+# Artificial Neural Network Project
